@@ -1,0 +1,14 @@
+{
+  "name": "music-rename",
+  "version": "1.0.0",
+  "description": "Rename music folders to Plex standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Neale <andy@andyneale.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^0.26.4"
+  }
+}
