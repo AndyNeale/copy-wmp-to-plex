@@ -4,9 +4,10 @@ At the moment, this project just consists of a simple Node script I wrote quickl
 
 # Usage
 
-Assuming you have Node already installed, just download index.js and package.json, edit index.js to set appropriate "source" and "target" folders, run
+Assuming you have Node already installed, just download the project, edit config.json to set appropriate "source" and "destination" folders (don't forget to escape backslashes), then run
 
 ```js
+npm install
 node index.js
 ```
 
